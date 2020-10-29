@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="selection_chars">Chars</string>
+    <string name="selection_words">Words</string>>
+
+    <string-array name="selection_options">
+
+        <item>Chars</item>
+        <item>Numbers</item>
+        <item>Words</item>
+
+    </string-array>
+</resources>
